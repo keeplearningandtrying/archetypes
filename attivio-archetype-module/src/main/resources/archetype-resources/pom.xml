@@ -8,8 +8,8 @@
   <!-- This provides access to the hosted Attivio SDK jars -->
   <repositories>
     <repository>
-      <id>Attivio SDK Repository</id>
-      <url>https://raw.githubusercontent.com/attivio/sdk/develop</url>
+      <id>bintray-attivio</id>
+      <url>https://attivio.bintray.com/attivio-sdk</url>
       <snapshots>
         <enabled>true</enabled>
         <updatePolicy>always</updatePolicy>
